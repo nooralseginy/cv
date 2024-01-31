@@ -62,14 +62,14 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Bank of America",
-      link: "https://bankofamerica.com",
-      badges: ["Remote"],
+      link: "https://about.bankofamerica.com/en",
+      badges: ["Pennington, NJ"],
       title: "Senior Data Analyst - Global Risk Management",
       logo: ParabolLogo,
       start: "2022",
       end: "Current",
       description:
-        "Mitigating risk at an enterprise-level through the continued development of risk metrics, funding alignment, and reporting automations",
+        "Mitigating risk at an enterprise-level through reporting automations, risk metric development, and strategic funding alignments",
     },
     {
       company: "Bloomberg LP",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2022",
       description:
-        "Developed technical solutions for stakeholders (internal/external) with a focus on automation and data quality",
+        "Developed technical solutions for MA <GO>, IPO <GO>, SPAC <GO>, & CACS <GO> users with a focus on data processing automations and data quality rules",
     },
   ],
   skills: [
@@ -94,20 +94,19 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "ONE Investments",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Internship",
+        "PowerQuery",
+        "SQL",
+        "Tableau",
+        "Salesforce CRM",
       ],
-      description: "A platform to build and grow your online business",
+      description: "Data Analysis & Strategic Positioning",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "oneinvestments.com",
+        href: "https://oneinvestments.com/",
       },
     },
   ],
