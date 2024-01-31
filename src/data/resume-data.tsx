@@ -1,4 +1,4 @@
-onimport {
+import {
   AmbitLogo,
   BarepapersLogo,
   BimLogo,
